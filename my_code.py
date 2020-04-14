@@ -1,5 +1,5 @@
 def double_it(x):
-    return # Insert code here
+    return x * 2
 
 
 if __name__ == '__main__':
